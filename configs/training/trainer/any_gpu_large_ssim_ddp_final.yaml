@@ -1,6 +1,6 @@
 # @package _group_
 kwargs:
-  gpus: -1
+  gpus: 1
   accelerator: ddp
   max_epochs: 40
   gradient_clip_val: 1
